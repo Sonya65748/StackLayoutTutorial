@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackLayoutTutorial.Android", "StackLayoutTutorial\StackLayoutTutorial.Android\StackLayoutTutorial.Android.csproj", "{8BD63948-57AD-4008-A6AE-961C00CAAAD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackLayoutTutorial", "StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial.csproj", "{B8B6C9E1-F156-4AC8-8B5C-3ED116E8CACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD63948-57AD-4008-A6AE-961C00CAAAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD63948-57AD-4008-A6AE-961C00CAAAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD63948-57AD-4008-A6AE-961C00CAAAD7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8BD63948-57AD-4008-A6AE-961C00CAAAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD63948-57AD-4008-A6AE-961C00CAAAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD63948-57AD-4008-A6AE-961C00CAAAD7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B8B6C9E1-F156-4AC8-8B5C-3ED116E8CACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B6C9E1-F156-4AC8-8B5C-3ED116E8CACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B6C9E1-F156-4AC8-8B5C-3ED116E8CACE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8B6C9E1-F156-4AC8-8B5C-3ED116E8CACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B6C9E1-F156-4AC8-8B5C-3ED116E8CACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B6C9E1-F156-4AC8-8B5C-3ED116E8CACE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDC4112-3684-445B-A645-D7D5F166DA09}
+	EndGlobalSection
+EndGlobal
